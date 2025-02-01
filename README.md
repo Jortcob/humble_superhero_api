@@ -20,8 +20,8 @@ Before you start, make sure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/humble_superheroes_app.git
-    cd humble_superheroes_app
+    git clone https://github.com/Jortcob/humble_superhero_api
+    cd humble_superheroes_api
     ```
 
 2. **Install dependencies**:
@@ -39,6 +39,10 @@ Before you start, make sure you have the following installed:
 ## Project Structure
 
 ├── src │ ├── App.js # Main React component that handles the superheroes list and form │ ├── index.css # Global and component-specific styles │ └── index.js # Entry point for the React app ├── public │ └── index.html # HTML template for the app └── package.json # Project dependencies and scripts
+
+markdown
+Copiar
+Editar
 
 ## How it Works
 
