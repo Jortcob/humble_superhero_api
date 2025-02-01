@@ -40,10 +40,6 @@ Before you start, make sure you have the following installed:
 
 ├── src │ ├── App.js # Main React component that handles the superheroes list and form │ ├── index.css # Global and component-specific styles │ └── index.js # Entry point for the React app ├── public │ └── index.html # HTML template for the app └── package.json # Project dependencies and scripts
 
-markdown
-Copiar
-Editar
-
 ## How it Works
 
 ### `App.js`
